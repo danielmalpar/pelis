@@ -1,0 +1,5 @@
+com\example\PELIS\controlador\Controlador.class
+com\example\PELIS\modelo\Pelicula.class
+com\example\PELIS\repositorio\PeliculaRepository.class
+com\example\PELIS\PelisApplication.class
+com\example\PELIS\servicio\PeliculaService.class
